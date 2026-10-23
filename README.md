@@ -77,14 +77,14 @@ See `anomaly_transformer/UPSTREAM_README.md` and `anomaly_transformer/scripts/` 
 
 | Dataset | Model | Precision | Recall | F1 | AUC |
 |---|---|---|---|---|---|
-| NSL-KDD | TadGAN | | | | |
-| NSL-KDD | **TadAGAN** | | | | |
-| NSL-KDD | Anomaly Transformer | | | | |
-| TON_IoT | TadGAN | | | | |
-| TON_IoT | **TadAGAN** | | | | |
-| TON_IoT | Anomaly Transformer | | | | |
-| SMD | TadGAN | | | | |
-| SMD | **TadAGAN** | | | | |
+| NSL-KDD | TadGAN |0.588|0.501|0.541|0.515|
+| NSL-KDD | **TadAGAN** |0.602|0.528|0.563|0.592|
+| NSL-KDD | Anomaly Transformer |0.715|0.379|0.469|0.560|
+| TON_IoT | TadGAN |0.491|0.438|0.489|0.599|
+| TON_IoT | **TadAGAN** |0.600|0.548|0.572|0.581|
+| TON_IoT | Anomaly Transformer |0.490|0.486|0.493|0.481|
+| SMD | TadGAN |0.533|0.655|0.600|0.917|
+| SMD | **TadAGAN** |0.534|0.704|0.611|0.915|
 | SMD | Anomaly Transformer |0.381|0.718|0.498|0.840|
 
 Full experimental details are in [`docs/thesis_summary.md`](docs/thesis_summary.md).
