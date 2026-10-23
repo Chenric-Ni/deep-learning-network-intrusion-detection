@@ -82,8 +82,10 @@ See `anomaly_transformer/UPSTREAM_README.md` and `anomaly_transformer/scripts/` 
 | NSL-KDD | Anomaly Transformer | | | | |
 | TON_IoT | TadGAN | | | | |
 | TON_IoT | **TadAGAN** | | | | |
+| TON_IoT | Anomaly Transformer | | | | |
 | SMD | TadGAN | | | | |
 | SMD | **TadAGAN** | | | | |
+| SMD | Anomaly Transformer |0.381|0.718|0.498|0.840|
 
 Full experimental details are in [`docs/thesis_summary.md`](docs/thesis_summary.md).
 
