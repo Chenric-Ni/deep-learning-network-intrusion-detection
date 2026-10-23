@@ -1,0 +1,5 @@
+MSL：Accuracy : 0.9265, Precision : 0.6057, Recall : 0.8693, F-score : 0.7139 
+PSM:Accuracy : 0.8340, Precision : 0.6270, Recall : 0.9914, F-score : 0.7682 
+SMAP:Accuracy : 0.9300, Precision : 0.7235, Recall : 0.7324, F-score : 0.7279 
+SMD:Accuracy : 0.9595, Precision : 0.5064, Recall : 0.9925, F-score : 0.6707 
+NSL-KDD:Accuracy : 0.6630, Precision : 0.7829, Recall : 0.5648, F-score : 0.6562 

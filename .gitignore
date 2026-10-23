@@ -1,0 +1,14 @@
+﻿# model weights, data, logs
+*.pth
+*.pt
+*.npy
+data/*
+!data/README.md
+*.log
+*.xmind
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/

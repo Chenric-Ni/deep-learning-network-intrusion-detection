@@ -1,0 +1,8 @@
+Epoch1, Train_loss0.0618835, Vali_loss0.0136427
+Epoch2, Train_loss0.0116096, Vali_loss0.0108960
+Epoch3, Train_loss0.0108132, Vali_loss0.0106867
+Epoch4, Train_loss0.0106517, Vali_loss0.0106076
+Epoch5, Train_loss0.0105873, Vali_loss0.0105741
+Epoch6, Train_loss0.0105501, Vali_loss0.0105571
+Epoch7, Train_loss0.0105345, Vali_loss0.0105494
+Epoch8, Train_loss0.0105326, Vali_loss0.0105449
